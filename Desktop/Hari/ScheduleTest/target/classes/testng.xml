@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+	
+<suite name="Placeorder Test for automation test suite">
+
+	 
+	<test name=" PlaceOrder Test Cases">
+		<classes>
+			
+			<class name="com.schedule.testcases.ScheduleTest"></class>
+					
+
+		</classes>
+	</test>
+	</suite>
